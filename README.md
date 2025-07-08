@@ -5,3 +5,7 @@ Você escolhe um arquivo de origem, aplica filtros por coluna (incluindo ou excl
 Também é possível remover duplicatas e visualizar os dados antes de exportar.
 No final, os resultados são salvos automaticamente em um novo arquivo Excel dentro da pasta exportados.
 Ideal para quem lida com grandes planilhas e quer automatizar parte do processo sem precisar escrever fórmulas ou macros.
+
+é necessario o python 3.7+
+
+https://www.python.org/downloads/
